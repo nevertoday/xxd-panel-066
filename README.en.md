@@ -49,15 +49,16 @@ These four works reuse the corresponding independent sources and are regenerated
 <!-- xxd-human-intro:start -->
 ## Where this Panel fits — and what it solves
 
-When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
+Family, pet, travel, and everyday-interaction photographs lend themselves well to light-hearted illustration. Yet common cartoon templates often replace real relationships with uniform expressions or fill the frame with too many cute details. The result may look “childlike,” but it loses the actions and story present in the original photograph.
 
-**Panel 066** is suited to work that must retain the source's essential content while pursuing this visual direction: **Use relaxed black lines and soft flat paint to tell a childlike and restrained photo story**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
+**Panel 066** preserves the relationships most worth remembering, retelling the scene with slightly awkward black lines and three to six soft, flat colours. It welcomes wobbles, pauses, and corrections, while mature control of balance, rhythm, and negative space keeps innocence from becoming childishness.
 
 ### Use it when
 
-- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
-- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
-- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
+- **You want to record family, pets, travel, or everyday interactions:** the subjects' actions and relationships matter more than a complete background.
+- **You like an innocent quality without formulaic cuteness:** simplified proportions and relaxed black lines preserve real observation instead of imposing the same cartoon expression on everyone.
+- **You want the image to feel easy-going yet thoughtfully designed:** three to six soft colours from the source, an off-centre subject, and generous negative space create a mature rhythm together.
+- **You need flexible delivery:** it supports top–bottom and left–right comparisons, design-only output, multiple aspect ratios, four-device wallpaper sets, and batch processing of image folders.
 
 ### A simple way to begin
 
@@ -65,7 +66,7 @@ You do not need to review every option first. Send your Agent an image and say:
 
 > Use XXD Panel 066 on this image and recommend the best layout and size first.
 
-Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
+Use the samples above to confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference below.
 <!-- xxd-human-intro:end -->
 
 ## Original prompt · Five languages
