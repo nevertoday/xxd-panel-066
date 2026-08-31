@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 066
+# 🦁 XXD Panel 066｜Innocent Narrative Line
 
 ### Use relaxed black lines and soft flat paint to tell a childlike and restrained photo story
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 066
+# 🦁 XXD Panel 066｜童真叙事线
 
 ### 用松弛黑线和柔和平涂讲述童真而克制的照片故事
 
