@@ -65,6 +65,17 @@ You do not need to review every option first. Send your Agent an image and say:
 Use the samples above to confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference below.
 <!-- xxd-human-intro:end -->
 
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 066 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Use relaxed black lines and soft flat paint to tell a childlike and restrained photo story |
+| **Recognizable signature** | Childlike narrative · Clumsy black line · Soft flat painting · Healing color · Handwritten observation |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
 ## Usage tips
 
 - **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
@@ -73,6 +84,31 @@ Use the samples above to confirm the visual direction. When you are ready, conti
 - **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
 - **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
 - **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
+## Get started
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-066.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-066" ~/.codex/skills/xxd-panel-066
+```
+
+You can also install it directly with `npx skills`:
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-066 --skill xxd-panel-066
+```
+
+The command fetches the repository from GitHub and installs the same-named Skill for the current agent. To install it in the user-level Codex Skills directory, append `--global --agent codex --yes`.
+
+Claude Code users may link the same folder under `~/.claude/skills/xxd-panel-066`. Restart the agent session after installation.
+
+```text
+$xxd-panel-066
+Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
+```
+
+Full specifications: [Skill workflow](SKILL.md) · [source archive](references/original-prompt/zh-CN.md) · [English runtime adapter](references/xxd-panel-066-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-066-prompt.zh-CN.md)
 
 ## Original prompt · Five languages
 
@@ -84,16 +120,6 @@ The Simplified Chinese file preserves the user's wording verbatim and remains th
 
 Panel 066 retains the most memorable subject relationships and a few environmental clues in the photo, using slightly awkward black lines, 3–6 pastel color blocks and handwritten observation sentences to form a professionally edited freehand drawing.
 
-<!-- xxd-panel-benefit:start -->
-## Quick fit check: is XXD Panel 066 right for you?
-
-| What you need to know | What this style gives you |
-|---|---|
-| **What you will get** | Use relaxed black lines and soft flat paint to tell a childlike and restrained photo story |
-| **Recognizable signature** | Childlike narrative · Clumsy black line · Soft flat painting · Healing color · Handwritten observation |
-| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
-| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
-<!-- xxd-panel-benefit:end -->
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
@@ -241,31 +267,6 @@ Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Imag
 If no suitable route is available, the Skill asks the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task without being echoed, displayed, logged, or exposed. They are not persisted, and provider, account, billing, or global route configuration is not modified, unless the user explicitly requests that configuration change.
 
 </details>
-
-## Get started
-
-```bash
-git clone https://github.com/nevertoday/xxd-panel-066.git
-mkdir -p ~/.codex/skills
-ln -s "$(pwd)/xxd-panel-066" ~/.codex/skills/xxd-panel-066
-```
-
-You can also install it directly with `npx skills`:
-
-```bash
-npx skills add https://github.com/nevertoday/xxd-panel-066 --skill xxd-panel-066
-```
-
-The command fetches the repository from GitHub and installs the same-named Skill for the current agent. To install it in the user-level Codex Skills directory, append `--global --agent codex --yes`.
-
-Claude Code users may link the same folder under `~/.claude/skills/xxd-panel-066`. Restart the agent session after installation.
-
-```text
-$xxd-panel-066
-Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
-```
-
-Full specifications: [Skill workflow](SKILL.md) · [source archive](references/original-prompt/zh-CN.md) · [English runtime adapter](references/xxd-panel-066-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-066-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## Historical XXD Panel directory
