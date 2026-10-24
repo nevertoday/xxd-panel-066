@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-066
-description: "Create XXD Panel 066 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-066 or requests the exact Panel 066 style."
+description: "XXD Panel 066｜Innocent Narrative Line: retells the main subject, action and relationship of a photo as a childlike yet restrained editorial illustration — simplified proportions, thin, loose black hand-drawn lines with small wobbles, pauses and corrections, soft hand-laid flat colour in three to six slightly muted colours taken from the photo plus one or two brighter accents, the subject placed off-centre on a near-white paper ground with wide whitespace, and a short handwritten observation in small, slightly clumsy but readable lettering. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-066 or asks for childlike line-and-flat-colour, gentle storybook-style or naive editorial illustration from a photo."
 ---
 
 # XXD Panel 066

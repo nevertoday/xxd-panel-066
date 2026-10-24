@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 066｜Innocent Narrative Line: retells the main subject, action and relationship of a photo as a childlike yet restrained editorial illustration — simplified proportions, thin, loose black hand-drawn lines with small wobbles, pauses and corrections, soft hand-laid flat colour in three to six slightly muted colours taken from the photo plus one or two brighter accents, the subject placed off-centre on a near-white paper ground with wide whitespace, and a short handwritten observation in small, slightly clumsy but readable lettering. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-066 or asks for childlike line-and-flat-colour, gentle storybook-style or naive editorial illustration from a photo.",
+  "short_description": "童真叙事线：用松弛黑线和三到六种柔和平涂色，把照片画成克制的童真小故事",
+  "zh-CN": {
+    "name": "童真叙事线",
+    "tagline": "用松弛的黑线和柔和平涂色，把照片里的动作和关系画成一个童真小故事。",
+    "look": "照片里最值得记住的人、动物或物件被重新画一遍：比例概括、形体简单，用纤细不太稳的黑线勾出结构，留着抖动、停顿和随手的修正。颜色从照片里取三到六种，变得柔和、清透，平平地涂上去，再留一两处更鲜明的原色。主体偏在一边或缩小，周围是大片接近白色的纸面。旁边会有一句小小的手写字，像画完后顺手写下的观察。",
+    "traits": ["童真叙事", "笨拙黑线", "3–6 色平涂", "治愈色彩", "手写观察", "大留白"],
+    "good": [
+      "家人和孩子的互动：牵手过马路、一起吹蜡烛、趴在地上画画",
+      "宠物的日常：抱着玩具睡觉的狗、窗台上的猫、被追的鸽子",
+      "旅行中的小场景：海边堆沙、火车窗边、背包走在小路上"
+    ],
+    "poor": [
+      "需要精确还原的图：证件照、产品图、建筑立面",
+      "主体很多又挤在一起的大场景，概括后会失去关系",
+      "想要粗黑卡通描边、规整矢量、贴纸风或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Innocent Narrative Line",
+    "tagline": "Retells the action and relationship in your photo as a small childlike story in loose black lines and soft flat colour.",
+    "look": "The person, animal or object most worth remembering is redrawn with simplified proportions and simple shapes, outlined in thin, not-quite-steady black lines that keep their wobbles, pauses and casual corrections. Three to six colours from the photo are softened and laid down as flat, clear patches, with one or two brighter original colours kept as accents. The subject sits off to one side or small, surrounded by wide near-white paper. A small handwritten line sits nearby, like an observation jotted down after drawing.",
+    "traits": ["Childlike story", "Clumsy black line", "3–6 flat colours", "Gentle colour", "Handwritten note", "Wide whitespace"],
+    "good": [
+      "Family moments and children: holding hands to cross a road, blowing out candles, lying on the floor drawing",
+      "Pets in daily life: a dog asleep with a toy, a cat on a windowsill, pigeons being chased",
+      "Small travel scenes: building sandcastles, a train window, walking a path with a backpack"
+    ],
+    "poor": [
+      "Images that need exact accuracy: ID photos, product shots, building facades",
+      "Wide scenes with many subjects crammed together, which lose their relationships when simplified",
+      "Requests for thick black cartoon outlines, neat vectors, sticker style or 3D"
+    ]
+  },
+  "ja": {
+    "name": "無邪気な物語の線",
+    "tagline": "写真の動きと関係を、ゆるい黒線とやわらかなベタ塗りで、無邪気な小さな物語に描き直します。",
+    "look": "写真でいちばん覚えておきたい人や動物、物を、比率を簡略にした素直な形で描き直します。輪郭は細くて少し不安定な黒線で、震えや止まり、気軽な描き直しが残ります。色は写真から三〜六色を取り、やわらかく澄んだ色にして平らに塗り、元の色を一、二か所だけ鮮やかに残します。主役は片側に寄せたり小さくしたりして、まわりにはほぼ白の紙が大きく広がります。そばには、描き終えてから書き添えたような小さな手書きのひと言が入ります。",
+    "traits": ["無邪気な物語", "不器用な黒線", "3〜6色のベタ塗り", "やさしい色", "手書きのメモ", "広い余白"],
+    "good": [
+      "家族や子どものふれあい：手をつないで道を渡る、一緒にろうそくを吹き消す、床に寝そべってお絵かき",
+      "ペットの日常：おもちゃを抱えて眠る犬、窓辺の猫、追いかけられるハト",
+      "旅先の小さな場面：海辺の砂遊び、列車の窓辺、リュックで歩く小道"
+    ],
+    "poor": [
+      "正確な再現が必要な画像：証明写真、商品写真、建物の立面",
+      "たくさんの主役がひしめく広い場面（簡略化すると関係が失われます）",
+      "太い黒の漫画線、整ったベクター、ステッカー風、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "천진한 서사의 선",
+    "tagline": "사진 속 동작과 관계를 느슨한 검은 선과 부드러운 평면 채색으로 천진한 작은 이야기로 다시 그립니다.",
+    "look": "사진에서 가장 기억할 만한 사람, 동물, 물건을 단순한 비율과 형태로 다시 그립니다. 윤곽은 가늘고 조금 불안정한 검은 선으로, 떨림과 멈춤, 무심한 수정 자국이 남습니다. 색은 사진에서 세 가지에서 여섯 가지를 골라 부드럽고 맑게 바꿔 평평하게 칠하고, 원래 색 한두 곳만 더 선명하게 남깁니다. 주인공은 한쪽으로 치우치거나 작게 놓이고, 주변에는 거의 흰 종이가 넓게 펼쳐집니다. 옆에는 그림을 다 그린 뒤 적어 둔 듯한 작은 손글씨 한 줄이 들어갑니다.",
+    "traits": ["천진한 서사", "서툰 검은 선", "3~6색 평면 채색", "편안한 색감", "손글씨 관찰", "넓은 여백"],
+    "good": [
+      "가족과 아이의 교감: 손잡고 길 건너기, 함께 촛불 끄기, 바닥에 엎드려 그림 그리기",
+      "반려동물의 일상: 장난감을 안고 자는 강아지, 창턱의 고양이, 쫓기는 비둘기",
+      "여행 중의 작은 장면: 바닷가 모래놀이, 기차 창가, 배낭 메고 걷는 오솔길"
+    ],
+    "poor": [
+      "정확하게 재현해야 하는 이미지: 증명사진, 제품 사진, 건물 입면",
+      "주인공이 많고 빽빽한 넓은 장면(단순화하면 관계가 사라집니다)",
+      "굵은 검은 만화 윤곽선, 반듯한 벡터, 스티커 스타일, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "خط السرد البريء",
+    "tagline": "يعيد سرد الحركة والعلاقة في صورتك حكايةً طفولية صغيرة بخطوط سوداء مرتخية وألوان مسطّحة ناعمة.",
+    "look": "يُعاد رسم الشخص أو الحيوان أو الشيء الأجدر بالتذكّر بنِسب مبسّطة وأشكال بسيطة، وتُحدّد معالمه بخطوط سوداء رفيعة غير ثابتة تماماً تحتفظ بارتعاشها وتوقفاتها وتصحيحاتها العفوية. تُؤخذ من الصورة ثلاثة إلى ستة ألوان، تُلطَّف وتُفرش مساحات مسطّحة صافية، ويبقى لون أصلي أو لونان أكثر إشراقاً للتأكيد. يقف العنصر في جانب أو بحجم صغير، تحيط به مساحة واسعة من ورق قريب من الأبيض، وإلى جانبه سطر صغير بخط اليد كملاحظة كُتبت بعد الانتهاء من الرسم.",
+    "traits": ["حكاية طفولية", "خط أسود أخرق", "3–6 ألوان مسطّحة", "ألوان مريحة", "ملاحظة بخط اليد", "فراغ واسع"],
+    "good": [
+      "لحظات العائلة والأطفال: عبور الشارع يداً بيد، إطفاء الشموع معاً، الرسم استلقاءً على الأرض",
+      "يوميات الحيوانات الأليفة: كلب نائم يحتضن لعبة، قطة على حافة نافذة، حمام يُطارَد",
+      "مشاهد سفر صغيرة: بناء قلاع الرمل، نافذة قطار، السير بحقيبة ظهر في طريق صغير"
+    ],
+    "poor": [
+      "صور تحتاج إلى دقة تامة: صور الهوية، صور المنتجات، واجهات المباني",
+      "مشاهد واسعة مكتظة بعناصر كثيرة، تضيع علاقاتها عند التبسيط",
+      "طلب خطوط كرتونية سوداء سميكة أو رسم متجهي منتظم أو أسلوب الملصقات أو مظهر ثلاثي الأبعاد"
+    ]
+  }
+}
